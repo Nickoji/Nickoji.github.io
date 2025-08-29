@@ -12,11 +12,11 @@ body
 .conteiner{
     text-align: center;
     background-color: #00ff80;
-    padding: 50px;
-    border-radius: 10px;
-    box-shadow: 10px 100px 100px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    max-width: 700px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    height: 950px;
     border: 2px solid #a3a3a3;
 }
 
