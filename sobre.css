@@ -1,14 +1,11 @@
 body
 {
     font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
     background-color: #ffffff; /* Fundo neutro */
 }
-
 .conteiner{
     text-align: center;
     background-color: #00ff80;
@@ -19,20 +16,7 @@ body
     height: 950px;
     border: 2px solid #a3a3a3;
 }
-
-li{
-    color: rgb(255, 255, 255);
-    font-size: 40px
-}
 h1{
     color: rgb(255, 255, 255);
     font-size:65px;
-}
-h2{
-    color: rgb(255, 255, 255);
-    font-size:55px;
-}
-figcaption{
-    color: rgb(255, 255, 255);
-    font-size: 30px;
 }
