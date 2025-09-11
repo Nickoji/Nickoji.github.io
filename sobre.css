@@ -3,8 +3,8 @@ body
     font-family: Arial, Helvetica, sans-serif;
     align-items: center;
     height: 100vh;
-    margin: 0;
-    background-color: #ffffff; /* Fundo neutro */
+    background-color: #ffffff; 
+    margin: 1;
 }
 .conteiner{
     text-align: center;
@@ -13,17 +13,17 @@ body
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
     border: 2px solid #a3a3a3;
-    display: grid;
     place-items: center;
-    height: 2500px;
-    margin-left: auto;
-    margin-right: auto;
+    height: auto;
+    width: auto;
 }
 h1{
     color: rgb(255, 255, 255);
     font-size:65px;
+    text-align: justify;
 }
 p{
     color: rgb(255, 255, 255);
     font-size: 40px;
+    text-align: justify;
 }
