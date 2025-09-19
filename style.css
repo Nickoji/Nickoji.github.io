@@ -1,9 +1,8 @@
 body
 {
-    font-family: Helvetica, Lucida , sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
-    align-items: center;
     margin-left: auto;
     margin-right: auto;
     background-color: #ffffff; /* Fundo neutro */

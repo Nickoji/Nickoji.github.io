@@ -1,30 +1,31 @@
 body
 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(255, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
     background-color: #ffffff; 
     margin-left: auto;
     margin-right: auto;
 }
-.conteiner{
-    text-align: center;
-    background-color: #00ff80;
-    padding: 40px;
-    border-radius: 20px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
-    border: 2px solid #a3a3a3;
-    place-items: center;
-    height:1600px;
-    width: 2750px;
+.video{
+    display: block;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-width: 5px;
+
 }
+
 h1{
-    color: rgb(255, 255, 255);
+    background-color: rgb(206, 206, 206);
+    color: rgb(43, 255, 0);
     font-size:100px;
-    text-align: justify;
+    text-align: center;
 }
 p{
-    color: rgb(255, 255, 255);
+    color: rgb(51, 255, 0);
     font-size: 40px;
     text-align: left;
+    padding-left: 30px;
 }
+
+
