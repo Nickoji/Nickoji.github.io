@@ -1,10 +1,11 @@
 body
 {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 0, 0);
     align-items: center;
-    height: 100vh;
     background-color: #ffffff; 
-    margin: 1;
+    margin-left: auto;
+    margin-right: auto;
 }
 .conteiner{
     text-align: center;
@@ -14,16 +15,16 @@ body
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
     border: 2px solid #a3a3a3;
     place-items: center;
-    height:1700px;
-    width: 2000px;
+    height:1600px;
+    width: 2750px;
 }
 h1{
     color: rgb(255, 255, 255);
-    font-size:65px;
+    font-size:100px;
     text-align: justify;
 }
 p{
     color: rgb(255, 255, 255);
     font-size: 40px;
-    text-align: justify;
+    text-align: left;
 }
