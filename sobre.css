@@ -2,7 +2,7 @@ body
 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
-    background-color: #ffffff; 
+    background-color: #00ff80; 
     margin-left: auto;
     margin-right: auto;
 }
@@ -16,16 +16,17 @@ body
 }
 
 h1{
-    background-color: rgb(206, 206, 206);
-    color: rgb(43, 255, 0);
+    background-color: rgb(231, 231, 231);
+    color: rgb(255, 255, 255);
     font-size:100px;
     text-align: center;
 }
 p{
-    color: rgb(51, 255, 0);
+    color: rgb(255, 255, 255);
     font-size: 40px;
     text-align: left;
     padding-left: 30px;
+    padding-right: 25px;
 }
 
 
