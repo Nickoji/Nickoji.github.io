@@ -11,8 +11,10 @@ figcaption{
     border-bottom: 2px solid white;
     border-width: 2px 2px;
 }
+
 img{
-    width: 200px;
+    width: 250px;
+    height: 250px;
     display: inline;
 }
 
@@ -36,4 +38,9 @@ p{
     margin:20px;
     border: white;
     border-radius: 10px;
+}
+.conteiner_foto{
+    display: flex; 
+    justify-content: flex-start;
+    align-items: center;
 }
