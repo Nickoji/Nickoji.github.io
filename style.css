@@ -13,8 +13,8 @@ body
     padding: 40px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
-    width: 1000px;
-    height: 950px;
+    width: auto;
+    height: auto;
     border: 2px solid #a3a3a3;
 }
 li{
@@ -37,4 +37,8 @@ figcaption{
 }
 img{
     width: 200px;
+}
+iframe{
+    width: 500px;
+    height: 400px;
 }
