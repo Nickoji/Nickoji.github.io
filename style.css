@@ -22,6 +22,7 @@ li{
     font-size: 40px
 }
 h1{
+    background-color: rgb(185, 185, 185);
     color: rgb(255, 255, 255);
     font-size:65px;
 }
@@ -41,4 +42,33 @@ img{
 iframe{
     width: 500px;
     height: 400px;
+}
+
+.contato__subtitulo{
+    display: inline;    
+}
+.contato__info{
+    margin: 16px 0 24px;
+}
+.titulo{
+    background-color: rgb(185, 185, 185);
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    text-align: left;
+    padding-left:15px ;
+}
+.contato__info-titulo,
+.contato__info-descricao{
+    display: inline;
+}
+.contato__info-descricao{
+    margin-left: 10px;
+}
+.contato__secao{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
+.contato__secao--telefone{
+    margin-left: 32px;
 }
