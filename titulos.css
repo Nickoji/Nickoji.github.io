@@ -1,7 +1,7 @@
 body{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
-    background-color: #00ff80; 
+    background-image: linear-gradient(to bottom,#00ff22,#00a323,#000);
     margin-left: auto;
     margin-right: auto;
 }
@@ -13,8 +13,8 @@ figcaption{
 }
 
 img{
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     display: inline;
 }
 
