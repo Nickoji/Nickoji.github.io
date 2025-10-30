@@ -1,38 +1,36 @@
 body
 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     width: 80%;
-    max-width: 940px ;
-    display: flex;
+    max-width: 940px;
     justify-content: center;
     margin-left: auto;
     margin-right: auto; 
     background-color: #ffffff; /* Fundo neutro */
 }
 .conteiner{
+    display: block;
     text-align: center;
     background-image: linear-gradient(to bottom,#00ff22,#00a323,#000);
     padding: 40px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
-    width: auto;
-    height: auto;
     border: 2px solid #a3a3a3;
 }
-li{
+.lista{
     color: rgb(255, 255, 255);
-    font-size: 40px
+    font-size: 30px
 }
-h1{
+.título{
     background-color: rgb(185, 185, 185);
     color: rgb(255, 255, 255);
-    font-size:65px;
+    font-size:50px;
 }
-h2{
+.subtitulo{
     color: rgb(255, 255, 255);
-    font-size:55px;
+    font-size:40px;
 }
-figcaption{
+.legenda_foto{
     color: rgb(255, 255, 255);
     font-size: 25px;
     border-bottom: 2px solid white;
