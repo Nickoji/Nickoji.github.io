@@ -1,11 +1,12 @@
 .cabecalho {
     background-color: #000000;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: o.6rem;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.23em;
+    height: 300px;
 }
  
 .cabecalho__logo{
@@ -22,6 +23,7 @@
  
 .cabecalho__item-menu {
     display: inline-block;  
+    padding: 5px;
 }
  
 .cabecalho__item-menu a {
